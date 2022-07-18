@@ -1,0 +1,7 @@
+{
+    "csv_files_path": "C:/Users/zknap/Desktop/Python Scripts/data/",
+    "min_year": "2013",
+    "database_path_daily": "C:/Users/zknap/Desktop/Python Scripts/Daily_data.xlsx",
+    "database_backup_path_daily": "C:/Users/zknap/Desktop/Python Scripts/Daily_data_backup.xlsx",
+    "url_link": "https://fme.discomap.eea.europa.eu/fmedatastreaming/AirQualityDownload/AQData_Extract.fmw?CountryCode=SK&CityName=&Pollutant=8&Year_from=2013&Year_to=2022&Station=&Samplingpoint=&Source=All&Output=TEXT&UpdateDate=&TimeCoverage=Year"
+}
